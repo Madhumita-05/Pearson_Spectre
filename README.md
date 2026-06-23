@@ -511,6 +511,12 @@ Frontend runs at **http://localhost:3000**
 Interactive docs available at **http://localhost:8000/docs**
 
 ---
+## Contributors
+Madhumita Shenbagarajesh
+Shobhana Shankar
+Hema M
+
+---
 
 <div align="center">
 
