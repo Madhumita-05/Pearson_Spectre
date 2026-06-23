@@ -511,12 +511,17 @@ Frontend runs at **http://localhost:3000**
 Interactive docs available at **http://localhost:8000/docs**
 
 ---
-## Contributors
-Madhumita Shenbagarajesh
-Shobhana Shankar
-Hema M
+## 👨‍💻 Contributors
+
+| Name                     | GitHub                                                 |
+|--------------------------|--------------------------------------------------------|
+| Madhumita Shenbagarajesh | [@Madhumita-05](https://github.com/Madhumita-05)       |
+| Shobhana S               | [@Shobhanashankar](https://github.com/Shobhanashankar) | 
+| Hema M                   | [@Hema M](https://github.com/hemashankar1912)          |
+
 
 ---
+
 
 <div align="center">
 
